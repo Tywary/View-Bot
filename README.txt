@@ -16,7 +16,7 @@
 
 # 3.0 Whats the ID of a Livestream?
 
-YouTube URLs look something like this => https://www.youtube.com/watch?v=dQw4w9WgXcQ <br />
+YouTube URLs look something like this => https://www.youtube.com/watch?v=dQw4w9WgXcQ <br/>
 Then _dQw4w9WgXcQ_ would be the ID of the video.
 
 Created by -SM2599
